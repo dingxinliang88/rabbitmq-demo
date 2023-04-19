@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: rabbitmq.codejuzi.icu
+    port: 5672
+    username: codejuzi
+    password: codejuzi
+    virtual-host: /codejuzi
