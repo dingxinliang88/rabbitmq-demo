@@ -1,7 +1,7 @@
 spring:
   rabbitmq:
-    host: rabbitmq.codejuzi.icu
+    host: ${your host}
     port: 5672
-    username: codejuzi
-    password: codejuzi
-    virtual-host: /codejuzi
+    username: your username
+    password: your password
+    virtual-host: /
